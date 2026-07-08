@@ -1,8 +1,8 @@
 # HMM-Based Regime Detection & Dynamic Portfolio Optimization
 
-> **Summer of Quant — Advanced Project**
+> **Summer of Quant / Advanced Project**
 
-A Python pipeline that detects hidden market regimes (Bull / Bear / Crisis) from NSE price data using a **Hidden Markov Model**, and dynamically re-allocates a multi-asset portfolio using **convex optimization (CVXPY)** — all validated with strict walk-forward backtesting to prevent lookahead bias.
+A Python pipeline that detects hidden market regimes (Bull / Bear / Crisis) from NSE price data using a **Hidden Markov Model**, and dynamically re-allocates a multi-asset portfolio using **convex optimization (CVXPY)** , all validated with strict walk forward backtesting to prevent lookahead bias.
 
 ---
 
