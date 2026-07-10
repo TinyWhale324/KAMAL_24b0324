@@ -14,7 +14,7 @@ Financial literature and empirical observation suggest three dominant market sta
 - **Bear**: Declining markets with moderate volatility ,a sustained downturn.
 - **Crisis**: Extreme, high-volatility periods (e.g., COVID crash of 2020, 2022 sell-off).
 
-Three states offer a practical balance — enough granularity to differentiate market environments without overfitting on noise.
+Three states offer a practical balance ,enough granularity to differentiate market environments without overfitting on noise.
 
 ### Why These Features?
 | Feature | Window | Rationale |
