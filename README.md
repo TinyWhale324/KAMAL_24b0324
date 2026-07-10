@@ -156,5 +156,3 @@ pip install -r requirements.txt   # or install packages manually
 python regime_portfolio.py
 # Results → output/ directory
 ```
-
-> **Note**: Results may vary slightly across runs due to HMM random initialisation, but the overall regime structure and performance ranking should remain consistent.
